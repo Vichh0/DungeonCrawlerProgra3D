@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/Vicho/Documents/Unreal Projects/Lab_4/Content/BP_character/BP_MyCharacter.uasset",
+				"C:/Users/Vicho/Documents/Unreal Projects/Lab_4/Content/BP_character/HealthSystemComponent.uasset",
+				"C:/Users/Vicho/Documents/Unreal Projects/Lab_4/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Vicho/Documents/Unreal Projects/Lab_4/Content/BP_character/BP_Trap.uasset",
+				"C:/Users/Vicho/Documents/Unreal Projects/Lab_4/Content/BP_character/BPI_interactable.uasset",
+				"C:/Users/Vicho/Documents/Unreal Projects/Lab_4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/OK/JUZKB152A1IW354CEQXRSM.uasset",
+				"C:/Users/Vicho/Documents/Unreal Projects/Lab_4/Content/BP_character/BP_chest.uasset",
+				"C:/Users/Vicho/Documents/Unreal Projects/Lab_4/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Vicho/Documents/Unreal Projects/Lab_4/Content/BP_character/M1.uasset",
+				"C:/Users/Vicho/Documents/Unreal Projects/Lab_4/Content/BP_character/M2.uasset",
+				"C:/Users/Vicho/Documents/Unreal Projects/Lab_4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/BD/DUKMBM91BOXR1KS9HEXDJ8.uasset",
+				"C:/Users/Vicho/Documents/Unreal Projects/Lab_4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/K1/676RTO62KFFOBQE8AUH9GD.uasset",
+				"C:/Users/Vicho/Documents/Unreal Projects/Lab_4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/8W/FYSTAMMO3UO76KHZCHOIVI.uasset",
+				"C:/Users/Vicho/Documents/Unreal Projects/Lab_4/Content/HealthSystemComponent.uasset",
+				"C:/Users/Vicho/Documents/Unreal Projects/Lab_4/Content/BPI_interactable.uasset",
+				"C:/Users/Vicho/Documents/Unreal Projects/Lab_3/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
