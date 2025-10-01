@@ -1493,3 +1493,7 @@ Make sure 'GruxPlayerCharacter' has been compiled for  Reset Orientation and Pos
 [2025.10.01-04.06.20:279][ 43]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-exhbaNuPXkOwm5-DfUsFPg-h4pFrZ5IcUy1l1ioUdT5qg]
 [2025.10.01-04.06.22:850][115]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
 [2025.10.01-04.06.25:487][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.10.01-04.07.50:463][508]LogDerivedDataCache: C:/Users/Chaos/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.01-04.12.10:552][287]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 363.554352
+[2025.10.01-04.12.11:878][291]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-04.12.11:878][291]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 364.547150, Update Interval: 306.172668
