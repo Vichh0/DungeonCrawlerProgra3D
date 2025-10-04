@@ -1,0 +1,29 @@
+# Unreal Engine
+
+# Carpetas generadas automáticamente
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+
+# Archivos temporales
+*.suo
+*.user
+*.userprefs
+*.log
+*.pdb
+
+# Ejecutables compilados
+*.exe
+*.dll
+*.app
+*.dylib
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Otras carpetas
+.vagrant/
