@@ -3944,3 +3944,20 @@ Sampler Limit: 32
 [2025.10.04-02.51.51:688][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
 [2025.10.04-02.51.51:697][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
 [2025.10.04-02.51.51:788][318]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.10.04-02.52.05:716][600]LogSlate: Window 'BP_Coin' being destroyed
+[2025.10.04-02.52.05:724][600]LogSlate: Window 'BP_Coin' being destroyed
+[2025.10.04-02.52.05:728][600]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-02.52.05:728][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.52.05:796][600]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.04-02.52.05:796][600]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-02.52.05:796][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.52.05:870][600]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.04-02.52.05:870][600]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-02.52.05:870][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.52.05:937][600]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.04-02.52.05:937][600]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-02.52.05:937][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.52.05:984][600]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.04-02.52.05:984][600]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-02.52.05:984][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.52.06:060][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
