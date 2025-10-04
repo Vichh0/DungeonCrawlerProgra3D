@@ -2779,3 +2779,1168 @@ Sampler Limit: 32
 [2025.10.04-02.00.11:224][651]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.04-02.00.11:224][651]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.04-02.00.11:225][651]AssetCheck: /Game/BP_character/BP_MyCharacter Validating asset
+[2025.10.04-02.00.47:435][205]LogSlate: Window 'BP_MyCharacter' being destroyed
+[2025.10.04-02.00.47:444][205]LogSlate: Window 'BP_MyCharacter' being destroyed
+[2025.10.04-02.00.47:447][205]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-02.00.47:448][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.00.47:507][205]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.04-02.00.47:508][205]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-02.00.47:508][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.00.47:583][205]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.04-02.00.47:583][205]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-02.00.47:583][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.00.47:663][205]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.04-02.00.47:663][205]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-02.00.47:663][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.00.47:709][205]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.04-02.00.47:709][205]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-02.00.47:710][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.00.47:786][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.04-02.02.52:094][639]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2513.416016
+[2025.10.04-02.02.53:095][642]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-02.02.53:095][643]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2514.084473, Update Interval: 323.361298
+[2025.10.04-02.04.05:867][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.04-02.04.05:872][860]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/I8/74C9UM95LE8YDOZV8YU9TA_Auto3
+[2025.10.04-02.04.05:872][860]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/74C9UM95LE8YDOZV8YU9TA_Auto3F76ADCE34D9FD104847AA481631E53E2.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/I8/74C9UM95LE8YDOZV8YU9TA_Auto3.uasset'
+[2025.10.04-02.04.05:875][860]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/EM/6T0G0MV8U7LXVTHCGXICSE_Auto3
+[2025.10.04-02.04.05:875][860]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/6T0G0MV8U7LXVTHCGXICSE_Auto324714C7B4B6C177D074B949ECC08FE63.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/EM/6T0G0MV8U7LXVTHCGXICSE_Auto3.uasset'
+[2025.10.04-02.04.05:877][860]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/RA/G01HVDKABLMTBI97E0MA34_Auto3
+[2025.10.04-02.04.05:877][860]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/G01HVDKABLMTBI97E0MA34_Auto3D044755544C53FB1EC063789B15B3414.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/RA/G01HVDKABLMTBI97E0MA34_Auto3.uasset'
+[2025.10.04-02.04.05:879][860]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AO/S85R8RBES6T2QLJE25PRPE_Auto3
+[2025.10.04-02.04.05:879][860]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/S85R8RBES6T2QLJE25PRPE_Auto3BE01ED36404CB93DC262A0A657E2703F.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AO/S85R8RBES6T2QLJE25PRPE_Auto3.uasset'
+[2025.10.04-02.04.05:881][860]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.033
+[2025.10.04-02.04.05:881][860]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2025.10.04-02.08.48:156][707]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2869.480713
+[2025.10.04-02.08.49:155][710]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-02.08.49:155][710]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2870.145752, Update Interval: 310.869476
+[2025.10.04-02.12.13:784][585]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_character/BP_Key.BP_Key
+[2025.10.04-02.12.13:785][585]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.10.04-02.13.08:315][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.04-02.13.08:680][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.13.08:765][872]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Key] ([2] browsable assets)...
+[2025.10.04-02.13.08:769][872]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Key.BP_Key]
+[2025.10.04-02.13.08:769][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Key]
+[2025.10.04-02.13.08:769][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Key" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Key.uasset" SILENT=true
+[2025.10.04-02.13.08:775][872]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Key
+[2025.10.04-02.13.08:775][872]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_Key531E22534BD883C97449D792A6F9F169.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Key.uasset'
+[2025.10.04-02.13.08:788][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.232 ms (total: 3.44 sec)
+[2025.10.04-02.13.08:882][872]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.13.08:882][872]LogContentValidation: Enabled validators:
+[2025.10.04-02.13.08:882][872]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.13.08:882][872]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.13.08:882][872]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.13.08:882][872]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.13.08:882][872]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.13.08:882][872]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.13.08:882][872]AssetCheck: /Game/BP_character/BP_Key Validating asset
+[2025.10.04-02.13.13:967][219]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_character/BP_Doorkey.BP_Doorkey
+[2025.10.04-02.13.13:967][219]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.10.04-02.14.01:842][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.10.04-02.14.02:338][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.14.02:426][ 59]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Key] ([2] browsable assets)...
+[2025.10.04-02.14.02:431][ 59]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Key.BP_Key]
+[2025.10.04-02.14.02:431][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Key]
+[2025.10.04-02.14.02:431][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Key" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Key.uasset" SILENT=true
+[2025.10.04-02.14.02:438][ 59]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Key
+[2025.10.04-02.14.02:439][ 59]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_Key031605E54E6D99327EDCEEBF867085A6.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Key.uasset'
+[2025.10.04-02.14.02:447][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.759 ms (total: 3.55 sec)
+[2025.10.04-02.14.02:541][ 59]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.14.02:541][ 59]LogContentValidation: Enabled validators:
+[2025.10.04-02.14.02:541][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.14.02:541][ 59]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.14.02:541][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.14.02:541][ 59]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.14.02:541][ 59]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.14.02:541][ 59]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.14.02:541][ 59]AssetCheck: /Game/BP_character/BP_Key Validating asset
+[2025.10.04-02.14.40:834][171]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3222.164307
+[2025.10.04-02.14.41:022][183]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-02.14.41:022][183]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3222.335938, Update Interval: 337.294220
+[2025.10.04-02.15.56:354][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.10.04-02.15.56:733][765]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.15.56:844][765]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Doorkey] ([2] browsable assets)...
+[2025.10.04-02.15.56:849][765]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Doorkey.BP_Doorkey]
+[2025.10.04-02.15.56:849][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Doorkey]
+[2025.10.04-02.15.56:849][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Doorkey" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Doorkey.uasset" SILENT=true
+[2025.10.04-02.15.56:858][765]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Doorkey
+[2025.10.04-02.15.56:858][765]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_DoorkeyD1E72BD94319278F2C09F1AD227762B6.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Doorkey.uasset'
+[2025.10.04-02.15.56:872][765]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.828 ms (total: 3.69 sec)
+[2025.10.04-02.15.56:967][765]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.15.56:968][765]LogContentValidation: Enabled validators:
+[2025.10.04-02.15.56:968][765]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.15.56:968][765]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.15.56:968][765]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.15.56:968][765]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.15.56:968][765]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.15.56:968][765]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.15.56:968][765]AssetCheck: /Game/BP_character/BP_Doorkey Validating asset
+[2025.10.04-02.15.57:107][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.10.04-02.15.57:112][766]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/EM/6T0G0MV8U7LXVTHCGXICSE_Auto4
+[2025.10.04-02.15.57:112][766]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/6T0G0MV8U7LXVTHCGXICSE_Auto4A02D210A4F19A8286CE14CACA7789554.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/EM/6T0G0MV8U7LXVTHCGXICSE_Auto4.uasset'
+[2025.10.04-02.15.57:114][766]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AO/S85R8RBES6T2QLJE25PRPE_Auto4
+[2025.10.04-02.15.57:114][766]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/S85R8RBES6T2QLJE25PRPE_Auto4501D975D40CB7430502C24AD20275A28.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AO/S85R8RBES6T2QLJE25PRPE_Auto4.uasset'
+[2025.10.04-02.15.57:116][766]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.033
+[2025.10.04-02.15.57:116][766]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2025.10.04-02.15.57:116][766]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_character/BP_Key] ([2] browsable assets)...
+[2025.10.04-02.15.57:116][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Key]
+[2025.10.04-02.15.57:124][766]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_character/BP_Key_Auto4
+[2025.10.04-02.15.57:124][766]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_Key_Auto46BBD783C4A532B10019956BDC016058B.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/Autosaves/Game/BP_character/BP_Key_Auto4.uasset'
+[2025.10.04-02.15.57:125][766]LogFileHelpers: Auto-saving content packages took 0.009
+[2025.10.04-02.17.12:212][511]LogBlueprint: Error: [AssetLog] C:\Users\Vicho\Documents\GitHub\DungeonCrawlerProgra3D\Content\BP_character\BP_Doorkey.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_Key  to imply a specific type.
+[2025.10.04-02.17.12:212][511]LogBlueprint: Error: [AssetLog] C:\Users\Vicho\Documents\GitHub\DungeonCrawlerProgra3D\Content\BP_character\BP_Doorkey.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2025.10.04-02.17.12:220][511]LogStreaming: Display: FlushAsyncLoading(589): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.04-02.17.12:234][511]LogTexture: Display: Building textures: /Engine/EditorResources/BadBlueprintSprite.BadBlueprintSprite (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.10.04-02.17.12:280][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.04-02.17.12:730][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.17.12:807][533]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Doorkey] ([2] browsable assets)...
+[2025.10.04-02.17.12:813][533]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Doorkey.BP_Doorkey]
+[2025.10.04-02.17.12:813][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Doorkey]
+[2025.10.04-02.17.12:813][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Doorkey" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Doorkey.uasset" SILENT=true
+[2025.10.04-02.17.12:821][533]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Doorkey
+[2025.10.04-02.17.12:821][533]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_Doorkey2114E75F4434B2A02FB500B50E0DC64A.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Doorkey.uasset'
+[2025.10.04-02.17.12:832][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.521 ms (total: 3.79 sec)
+[2025.10.04-02.17.12:922][533]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.17.12:922][533]LogContentValidation: Enabled validators:
+[2025.10.04-02.17.12:922][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.17.12:922][533]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.17.12:922][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.17.12:922][533]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.17.12:922][533]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.17.12:922][533]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.17.12:923][533]AssetCheck: /Game/BP_character/BP_Doorkey Validating asset
+[2025.10.04-02.17.29:491][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.10.04-02.17.29:800][579]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.17.29:891][579]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Doorkey] ([2] browsable assets)...
+[2025.10.04-02.17.29:897][579]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Doorkey.BP_Doorkey]
+[2025.10.04-02.17.29:897][579]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Doorkey]
+[2025.10.04-02.17.29:897][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Doorkey" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Doorkey.uasset" SILENT=true
+[2025.10.04-02.17.29:904][579]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Doorkey
+[2025.10.04-02.17.29:905][579]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_Doorkey254B0CF24E23C9DD9D49459B991C2A0A.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Doorkey.uasset'
+[2025.10.04-02.17.29:917][579]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.788 ms (total: 3.91 sec)
+[2025.10.04-02.17.30:022][579]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.17.30:022][579]LogContentValidation: Enabled validators:
+[2025.10.04-02.17.30:022][579]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.17.30:022][579]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.17.30:022][579]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.17.30:022][579]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.17.30:022][579]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.17.30:022][579]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.17.30:022][579]AssetCheck: /Game/BP_character/BP_Doorkey Validating asset
+[2025.10.04-02.17.31:126][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.17.31:222][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_character/BP_Doorkey] ([2] browsable assets)...
+[2025.10.04-02.17.31:222][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Doorkey]
+[2025.10.04-02.17.31:222][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Doorkey" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Doorkey.uasset" SILENT=true
+[2025.10.04-02.17.31:230][651]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Doorkey
+[2025.10.04-02.17.31:230][651]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_DoorkeyADBD107D47A51BE582F4089BDB3EFA66.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Doorkey.uasset'
+[2025.10.04-02.17.31:242][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.137 ms (total: 4.03 sec)
+[2025.10.04-02.17.31:339][651]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.17.31:339][651]LogContentValidation: Enabled validators:
+[2025.10.04-02.17.31:339][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.17.31:339][651]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.17.31:339][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.17.31:339][651]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.17.31:339][651]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.17.31:339][651]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.17.31:339][651]AssetCheck: /Game/BP_character/BP_Doorkey Validating asset
+[2025.10.04-02.17.32:240][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.10.04-02.17.32:737][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.17.32:838][732]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Key] ([2] browsable assets)...
+[2025.10.04-02.17.32:843][732]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Key.BP_Key]
+[2025.10.04-02.17.32:844][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Key]
+[2025.10.04-02.17.32:844][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Key" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Key.uasset" SILENT=true
+[2025.10.04-02.17.32:849][732]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Key
+[2025.10.04-02.17.32:850][732]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_Key1B31BDA0437598FB9ABD9F9549C94EE9.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Key.uasset'
+[2025.10.04-02.17.32:860][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.502 ms (total: 4.15 sec)
+[2025.10.04-02.17.32:952][732]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.17.32:952][732]LogContentValidation: Enabled validators:
+[2025.10.04-02.17.32:952][732]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.17.32:952][732]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.17.32:952][732]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.17.32:952][732]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.17.32:952][732]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.17.32:952][732]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.17.32:952][732]AssetCheck: /Game/BP_character/BP_Key Validating asset
+[2025.10.04-02.20.41:071][725]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.04-02.20.41:079][725]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.10.04-02.20.41:079][725]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.10.04-02.20.41:082][725]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.718 ms (total: 18.419 ms)
+[2025.10.04-02.20.41:082][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.04-02.20.41:106][725]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.10.04-02.20.41:111][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004760s)
+[2025.10.04-02.20.41:111][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004816s)
+[2025.10.04-02.20.41:131][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.10.04-02.20.41:135][725]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.10.04-02.20.41:136][725]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.04-02.20.41:136][725]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.04-02.20.41:136][725]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.04-02.20.41:136][725]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.04-02.20.41:138][725]LogWorldPartition: Display: WorldPartition initialize took 1.623 ms (total: 1.44 sec)
+[2025.10.04-02.20.41:138][725]LogPlayLevel: PIE: World Init took: (0.003595s)
+[2025.10.04-02.20.41:139][725]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.10.04-02.20.41:139][725]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.04-02.20.41:139][725]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.04-02.20.41:139][725]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.04-02.20.41:139][725]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.04-02.20.41:139][725]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.04-02.20.41:139][725]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.04-02.20.41:139][725]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.04-02.20.41:139][725]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.04-02.20.41:139][725]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.04-02.20.41:139][725]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.04-02.20.41:139][725]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.04-02.20.41:145][725]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.04-02.20.41:167][725]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.10.04-02.20.41:167][725]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.04-02.20.41:167][725]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.04-02.20.41:167][725]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.04-02.20.41:168][725]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.10.04-02.20.41:168][725]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.10.04-02.20.41:171][725]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.10.04-02.20.41:171][725]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.10.04-02.20.41:171][725]LogInit: FAudioDevice initialized with ID 7.
+[2025.10.04-02.20.41:171][725]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2025.10.04-02.20.41:171][725]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.10.04-02.20.41:174][725]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.04-02.20.41:176][725]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.10.03-23.20.41
+[2025.10.04-02.20.41:177][725]LogWorld: Bringing up level for play took: 0.002464
+[2025.10.04-02.20.41:179][725]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.10.04-02.20.41:186][725]PIE: Server logged in
+[2025.10.04-02.20.41:187][725]PIE: Play in editor total start time 0,108 seconds.
+[2025.10.04-02.20.48:086][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-02.20.48:086][522]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.10.04-02.20.48:086][522]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-02.20.48:087][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.20.48:087][522]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.10.04-02.20.48:091][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-02.20.48:097][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.20.48:117][522]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.04-02.20.48:118][522]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.10.04-02.20.48:118][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.10.04-02.20.48:120][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.10.04-02.20.48:124][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-02.20.48:128][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.04-02.20.48:217][523]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.10.04-02.20.52:722][820]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3594.038574
+[2025.10.04-02.20.52:913][833]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-02.20.52:913][833]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3594.214600, Update Interval: 343.488892
+[2025.10.04-02.21.22:776][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.04-02.21.23:384][903]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.21.23:475][903]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Key] ([2] browsable assets)...
+[2025.10.04-02.21.23:481][903]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Key.BP_Key]
+[2025.10.04-02.21.23:481][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Key]
+[2025.10.04-02.21.23:481][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Key" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Key.uasset" SILENT=true
+[2025.10.04-02.21.23:488][903]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Key
+[2025.10.04-02.21.23:489][903]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_KeyC1D30FDD4ED8082DD832EF8CF35F6043.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Key.uasset'
+[2025.10.04-02.21.23:498][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.180 ms (total: 4.26 sec)
+[2025.10.04-02.21.23:570][903]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.21.23:570][903]LogContentValidation: Enabled validators:
+[2025.10.04-02.21.23:570][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.21.23:570][903]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.21.23:570][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.21.23:570][903]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.21.23:570][903]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.21.23:570][903]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.21.23:570][903]AssetCheck: /Game/BP_character/BP_Key Validating asset
+[2025.10.04-02.21.26:096][129]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.04-02.21.26:103][129]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.10.04-02.21.26:103][129]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.10.04-02.21.26:106][129]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.485 ms (total: 20.904 ms)
+[2025.10.04-02.21.26:106][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.04-02.21.26:135][129]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.10.04-02.21.26:139][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004159s)
+[2025.10.04-02.21.26:139][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004200s)
+[2025.10.04-02.21.26:158][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.10.04-02.21.26:161][129]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.10.04-02.21.26:163][129]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.04-02.21.26:163][129]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.04-02.21.26:163][129]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.04-02.21.26:163][129]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.04-02.21.26:164][129]LogWorldPartition: Display: WorldPartition initialize took 1.623 ms (total: 1.44 sec)
+[2025.10.04-02.21.26:164][129]LogPlayLevel: PIE: World Init took: (0.003386s)
+[2025.10.04-02.21.26:166][129]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.10.04-02.21.26:166][129]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.04-02.21.26:166][129]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.04-02.21.26:166][129]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.04-02.21.26:166][129]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.04-02.21.26:166][129]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.04-02.21.26:166][129]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.04-02.21.26:166][129]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.04-02.21.26:166][129]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.04-02.21.26:166][129]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.04-02.21.26:166][129]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.04-02.21.26:166][129]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.04-02.21.26:169][129]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.04-02.21.26:186][129]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.10.04-02.21.26:186][129]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.04-02.21.26:186][129]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.04-02.21.26:186][129]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.04-02.21.26:187][129]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.10.04-02.21.26:187][129]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.10.04-02.21.26:189][129]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.10.04-02.21.26:190][129]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.10.04-02.21.26:190][129]LogInit: FAudioDevice initialized with ID 8.
+[2025.10.04-02.21.26:190][129]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2025.10.04-02.21.26:190][129]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.10.04-02.21.26:192][129]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.04-02.21.26:195][129]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.10.03-23.21.26
+[2025.10.04-02.21.26:195][129]LogWorld: Bringing up level for play took: 0.002103
+[2025.10.04-02.21.26:198][129]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.10.04-02.21.26:203][129]PIE: Server logged in
+[2025.10.04-02.21.26:203][129]PIE: Play in editor total start time 0,101 seconds.
+[2025.10.04-02.21.28:171][351]LogBlueprintUserMessages: [BP_Key_C_UAID_7C4D8F97DF3F009502_1698590841] taken key
+[2025.10.04-02.21.34:632][114]LogBlueprintUserMessages: [BP_Doorkey_C_UAID_7C4D8F97DF3F009502_1975966842] Door Opened
+[2025.10.04-02.21.36:247][301]LogBlueprintUserMessages: [BP_Door_C_UAID_7C4D8F97DF3F009502_1202790839] Door Opened
+[2025.10.04-02.21.39:336][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-02.21.39:336][655]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.10.04-02.21.39:336][655]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-02.21.39:337][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.21.39:337][655]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.10.04-02.21.39:341][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-02.21.39:346][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.21.39:368][655]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.04-02.21.39:369][655]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.10.04-02.21.39:369][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.10.04-02.21.39:371][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.10.04-02.21.39:376][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-02.21.39:378][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.04-02.21.39:470][656]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.10.04-02.21.40:506][763]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.04-02.21.40:513][763]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.10.04-02.21.40:513][763]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.10.04-02.21.40:516][763]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.063 ms (total: 23.968 ms)
+[2025.10.04-02.21.40:516][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.04-02.21.40:516][763]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.10.04-02.21.40:522][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005366s)
+[2025.10.04-02.21.40:522][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005405s)
+[2025.10.04-02.21.40:543][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.04-02.21.40:546][763]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.10.04-02.21.40:548][763]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.04-02.21.40:548][763]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.04-02.21.40:548][763]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.04-02.21.40:548][763]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.04-02.21.40:549][763]LogWorldPartition: Display: WorldPartition initialize took 1.628 ms (total: 1.44 sec)
+[2025.10.04-02.21.40:549][763]LogPlayLevel: PIE: World Init took: (0.003468s)
+[2025.10.04-02.21.40:550][763]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.10.04-02.21.40:550][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.04-02.21.40:550][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.04-02.21.40:550][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.04-02.21.40:550][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.04-02.21.40:550][763]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.04-02.21.40:550][763]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.04-02.21.40:550][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.04-02.21.40:550][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.04-02.21.40:550][763]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.04-02.21.40:550][763]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.04-02.21.40:550][763]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.04-02.21.40:553][763]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.04-02.21.40:570][763]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.10.04-02.21.40:571][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.04-02.21.40:571][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.04-02.21.40:571][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.04-02.21.40:571][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.10.04-02.21.40:571][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.10.04-02.21.40:574][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.10.04-02.21.40:574][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.10.04-02.21.40:574][763]LogInit: FAudioDevice initialized with ID 9.
+[2025.10.04-02.21.40:574][763]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2025.10.04-02.21.40:574][763]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.10.04-02.21.40:577][763]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.04-02.21.40:579][763]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.10.03-23.21.40
+[2025.10.04-02.21.40:579][763]LogWorld: Bringing up level for play took: 0.002213
+[2025.10.04-02.21.40:581][763]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.10.04-02.21.40:587][763]PIE: Server logged in
+[2025.10.04-02.21.40:588][763]PIE: Play in editor total start time 0,075 seconds.
+[2025.10.04-02.21.41:646][872]LogBlueprintUserMessages: [BP_Doorkey_C_UAID_7C4D8F97DF3F009502_1975966842] Door Opened
+[2025.10.04-02.21.43:073][ 38]LogBlueprintUserMessages: [BP_Key_C_UAID_7C4D8F97DF3F009502_1698590841] taken key
+[2025.10.04-02.21.43:957][140]LogBlueprintUserMessages: [BP_Coin_C_UAID_7C4D8F97DF3F009502_1694926840] +1 coin
+[2025.10.04-02.21.44:585][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-02.21.44:585][207]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.10.04-02.21.44:586][207]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-02.21.44:586][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.21.44:586][207]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.10.04-02.21.44:590][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-02.21.44:596][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.21.44:618][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-02.21.44:619][207]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.10.04-02.21.44:619][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.10.04-02.21.44:621][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.10.04-02.21.44:628][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.04-02.21.44:720][208]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.10.04-02.21.52:308][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.21.52:404][771]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_character/BP_Key] ([2] browsable assets)...
+[2025.10.04-02.21.52:404][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Key]
+[2025.10.04-02.21.52:404][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Key" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Key.uasset" SILENT=true
+[2025.10.04-02.21.52:411][771]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Key
+[2025.10.04-02.21.52:412][771]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_Key18C612DF493791762F47AEB70B6C37EE.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Key.uasset'
+[2025.10.04-02.21.52:421][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.187 ms (total: 4.37 sec)
+[2025.10.04-02.21.52:523][771]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.21.52:523][771]LogContentValidation: Enabled validators:
+[2025.10.04-02.21.52:523][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.21.52:523][771]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.21.52:523][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.21.52:523][771]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.21.52:523][771]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.21.52:523][771]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.21.52:523][771]AssetCheck: /Game/BP_character/BP_Key Validating asset
+[2025.10.04-02.21.58:997][230]LogDerivedDataCache: ../../../Engine/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.04-02.26.31:681][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.10.04-02.26.31:687][526]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/EM/6T0G0MV8U7LXVTHCGXICSE_Auto5
+[2025.10.04-02.26.31:687][526]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/6T0G0MV8U7LXVTHCGXICSE_Auto5054709F6405DB153C32A8A9E258915D5.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/EM/6T0G0MV8U7LXVTHCGXICSE_Auto5.uasset'
+[2025.10.04-02.26.31:689][526]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AO/S85R8RBES6T2QLJE25PRPE_Auto5
+[2025.10.04-02.26.31:689][526]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/S85R8RBES6T2QLJE25PRPE_Auto5A202EE9847AD64D3D6F751BB3AEB25F7.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AO/S85R8RBES6T2QLJE25PRPE_Auto5.uasset'
+[2025.10.04-02.26.31:690][526]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.039
+[2025.10.04-02.26.31:690][526]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2025.10.04-02.27.12:303][498]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3973.608887
+[2025.10.04-02.27.12:501][512]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-02.27.12:501][512]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3973.791992, Update Interval: 309.175690
+[2025.10.04-02.30.36:234][872]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.04-02.30.36:244][872]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.04-02.30.36:259][872]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.04-02.30.36:279][873]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.04-02.30.48:287][661]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Box
+[2025.10.04-02.30.48:297][661]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.04-02.30.49:824][742]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_character/BP_Box.BP_Box
+[2025.10.04-02.30.49:825][742]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.10.04-02.30.57:237][124]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.10.04-02.31.04:317][539]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.04-02.32.08:913][  1]LogEditorTransaction: Undo Edit Static Mesh
+[2025.10.04-02.32.21:297][593]LogEditorTransaction: Undo Edit Static Mesh
+[2025.10.04-02.32.46:590][903]LogStreaming: Display: FlushAsyncLoading(590): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.04-02.32.46:594][903]LogStaticMesh: Display: Building static mesh Shape_NarrowCapsule (Required Memory Estimate: 1.724726 MB)...
+[2025.10.04-02.32.46:609][903]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Shapes/Shape_NarrowCapsule.Shape_NarrowCapsule
+[2025.10.04-02.32.48:513][  9]LogEditorTransaction: Undo Edit Static Mesh
+[2025.10.04-02.33.03:942][297]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4325.223145
+[2025.10.04-02.33.04:942][300]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-02.33.04:942][300]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4325.890625, Update Interval: 336.131470
+[2025.10.04-02.36.32:457][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.10.04-02.36.32:469][922]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/I8/74C9UM95LE8YDOZV8YU9TA_Auto6
+[2025.10.04-02.36.32:469][922]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/74C9UM95LE8YDOZV8YU9TA_Auto6C7F668FE48BD1C8DCACBE197775E5367.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/I8/74C9UM95LE8YDOZV8YU9TA_Auto6.uasset'
+[2025.10.04-02.36.32:472][922]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/EM/6T0G0MV8U7LXVTHCGXICSE_Auto6
+[2025.10.04-02.36.32:472][922]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/6T0G0MV8U7LXVTHCGXICSE_Auto6ABF8DD454EC4EFDC74FE2090F59C8FA0.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/EM/6T0G0MV8U7LXVTHCGXICSE_Auto6.uasset'
+[2025.10.04-02.36.32:475][922]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/RA/G01HVDKABLMTBI97E0MA34_Auto6
+[2025.10.04-02.36.32:475][922]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/G01HVDKABLMTBI97E0MA34_Auto6C1CF58284DEEF5FE120B72AA24113C3D.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/RA/G01HVDKABLMTBI97E0MA34_Auto6.uasset'
+[2025.10.04-02.36.32:477][922]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AO/S85R8RBES6T2QLJE25PRPE_Auto6
+[2025.10.04-02.36.32:477][922]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/S85R8RBES6T2QLJE25PRPE_Auto6EA4EB3774CD83D5ECCDB2582A95F44A0.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AO/S85R8RBES6T2QLJE25PRPE_Auto6.uasset'
+[2025.10.04-02.36.32:478][922]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.088
+[2025.10.04-02.36.32:478][922]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.088
+[2025.10.04-02.36.32:479][922]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Box] ([2] browsable assets)...
+[2025.10.04-02.36.32:492][922]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Box.BP_Box]
+[2025.10.04-02.36.32:492][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Box]
+[2025.10.04-02.36.32:495][922]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_character/BP_Box_Auto6
+[2025.10.04-02.36.32:495][922]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_Box_Auto63EE7AD824829064821D1C0B509BF21D3.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/Autosaves/Game/BP_character/BP_Box_Auto6.uasset'
+[2025.10.04-02.36.32:496][922]LogFileHelpers: Auto-saving content packages took 0.018
+[2025.10.04-02.38.55:966][734]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.10.04-02.38.55:983][734]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.10.04-02.38.56:008][735]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.10.04-02.38.57:195][804]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2025.10.04-02.38.57:198][804]LogContentBrowser: End creating deferred item NewMaterial
+[2025.10.04-02.38.57:359][809]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/BP_character/NewMaterial.NewMaterial
+[2025.10.04-02.38.57:363][809]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.10.04-02.38.57:796][809]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.04-02.38.57:796][809]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.04-02.38.57:796][809]MaterialEditorStats: Shader Count: 0
+[2025.10.04-02.38.57:796][809]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.04-02.38.57:869][811]MaterialEditorStats: Base pass shader: 164 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.04-02.38.57:869][811]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.04-02.38.57:869][811]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.04-02.38.57:869][811]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.04-02.38.57:869][811]MaterialEditorStats: Shader Count: 3
+[2025.10.04-02.38.57:869][811]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.04-02.39.27:028][582]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4708.316406
+[2025.10.04-02.39.28:026][585]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-02.39.28:026][586]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4708.983887, Update Interval: 314.584808
+[2025.10.04-02.39.45:167][794]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/BP_character/NewMaterial.NewMaterial
+[2025.10.04-02.39.45:171][794]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.10.04-02.39.45:619][794]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.04-02.39.45:619][794]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.04-02.39.45:619][794]MaterialEditorStats: Shader Count: 0
+[2025.10.04-02.39.45:619][794]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.04-02.39.45:690][796]MaterialEditorStats: Base pass shader: 164 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.04-02.39.45:690][796]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.04-02.39.45:690][796]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.04-02.39.45:690][796]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.04-02.39.45:690][796]MaterialEditorStats: Shader Count: 3
+[2025.10.04-02.39.45:690][796]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.04-02.40.25:047][400]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/BP_character/NewMaterial.NewMaterial
+[2025.10.04-02.40.25:050][400]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.10.04-02.40.25:502][400]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.04-02.40.25:502][400]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.04-02.40.25:502][400]MaterialEditorStats: Shader Count: 0
+[2025.10.04-02.40.25:502][400]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.04-02.40.25:573][402]MaterialEditorStats: Base pass shader: 164 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.04-02.40.25:573][402]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.04-02.40.25:573][402]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.04-02.40.25:573][402]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.04-02.40.25:573][402]MaterialEditorStats: Shader Count: 3
+[2025.10.04-02.40.25:573][402]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.04-02.40.57:105][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.04-02.40.58:528][985]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.04-02.40.58:571][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.10.04-02.40.58:598][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.10.04-02.40.58:622][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.10.04-02.41.04:959][234]LogStreaming: Display: FlushAsyncLoading(591): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.04-02.41.05:067][234]LogInterchangeEngine: [Pending] Importing
+[2025.10.04-02.41.05:067][234]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Vicho/Downloads/wooden_garage_door_4k.blend/textures/wooden_garage_door_diff_4k.jpg]
+[2025.10.04-02.41.05:687][236]LogStreaming: Display: FlushAsyncLoading(601): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.04-02.41.05:688][236]LogInterchangeImport: JPEG file [C:/Users/Vicho/Downloads/wooden_garage_door_4k.blend/textures/wooden_garage_door_diff_4k.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.10.04-02.41.06:190][238]LogTexture: Display: Building textures: /Game/BP_character/wooden_garage_door_diff_4k.wooden_garage_door_diff_4k (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.10.04-02.41.06:673][239]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Vicho/Downl...or_4k.blend/textures/wooden_garage_door_diff_4k.jpg]
+[2025.10.04-02.41.06:762][239]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.04-02.41.06:762][239]LogInterchangeEngine: [Success] Import Done
+[2025.10.04-02.41.17:239][563]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/BP_character/wooden_garage_door_diff_4k.wooden_garage_door_diff_4k
+[2025.10.04-02.41.23:581][857]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.T_Manny_01_ASAOPMASK_MSK (TFO_DXT1, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Final
+[2025.10.04-02.41.23:983][858]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.T_Manny_01_BN (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 385.499988 MB), EncodeSpeed: Final
+[2025.10.04-02.41.24:353][859]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.T_Manny_01_CCRCCPlastic_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Final
+[2025.10.04-02.41.24:736][860]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_D.T_Manny_01_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Final
+[2025.10.04-02.41.25:112][861]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.T_Manny_01_MSR_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Final
+[2025.10.04-02.41.25:519][862]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_N.T_Manny_01_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 385.499988 MB), EncodeSpeed: Final
+[2025.10.04-02.41.25:840][863]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.T_Manny_01_Tan (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 385.499988 MB), EncodeSpeed: Final
+[2025.10.04-02.41.36:213][326]LogStreaming: Display: FlushAsyncLoading(602): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.04-02.41.36:365][327]LogTexture: Display: Building textures: /Game/StarterContent/Textures/T_Wood_Walnut_D.T_Wood_Walnut_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.10.04-02.41.36:390][328]LogTexture: Display: Building textures: /Game/StarterContent/Textures/T_Wood_Walnut_N.T_Wood_Walnut_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2025.10.04-02.41.36:504][332]LogTexture: Display: Building textures: /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.10.04-02.41.43:122][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.04-02.41.43:494][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.41.43:585][650]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Box] ([2] browsable assets)...
+[2025.10.04-02.41.43:591][650]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Box.BP_Box]
+[2025.10.04-02.41.43:591][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Box]
+[2025.10.04-02.41.43:591][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Box" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Box.uasset" SILENT=true
+[2025.10.04-02.41.43:595][650]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Box
+[2025.10.04-02.41.43:595][650]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_Box211A3134414D5CBB1B8D808D27570494.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Box.uasset'
+[2025.10.04-02.41.43:609][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.067 ms (total: 4.49 sec)
+[2025.10.04-02.41.43:703][650]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.41.43:703][650]LogContentValidation: Enabled validators:
+[2025.10.04-02.41.43:703][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.41.43:703][650]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.41.43:703][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.41.43:703][650]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.41.43:703][650]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.41.43:703][650]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.41.43:703][650]AssetCheck: /Game/BP_character/BP_Box Validating asset
+[2025.10.04-02.42.02:356][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.10.04-02.42.02:822][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.42.02:915][586]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Doorkey] ([2] browsable assets)...
+[2025.10.04-02.42.02:922][586]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Doorkey.BP_Doorkey]
+[2025.10.04-02.42.02:922][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Doorkey]
+[2025.10.04-02.42.02:922][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Doorkey" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Doorkey.uasset" SILENT=true
+[2025.10.04-02.42.02:929][586]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Doorkey
+[2025.10.04-02.42.02:930][586]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_Doorkey592BADDA4010C14FF95526A20661EED8.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Doorkey.uasset'
+[2025.10.04-02.42.02:942][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.342 ms (total: 4.61 sec)
+[2025.10.04-02.42.03:035][586]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.42.03:035][586]LogContentValidation: Enabled validators:
+[2025.10.04-02.42.03:035][586]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.42.03:035][586]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.42.03:035][586]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.42.03:035][586]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.42.03:035][586]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.42.03:035][586]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.42.03:035][586]AssetCheck: /Game/BP_character/BP_Doorkey Validating asset
+[2025.10.04-02.42.05:452][694]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_character/BP_Door.BP_Door
+[2025.10.04-02.42.05:452][694]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.10.04-02.42.16:005][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.10.04-02.42.16:300][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.42.16:399][189]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Door] ([2] browsable assets)...
+[2025.10.04-02.42.16:405][189]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Door.BP_Door]
+[2025.10.04-02.42.16:405][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Door]
+[2025.10.04-02.42.16:405][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Door" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Door.uasset" SILENT=true
+[2025.10.04-02.42.16:412][189]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Door
+[2025.10.04-02.42.16:413][189]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_Door3D2AE8314D9EDE1F7B2901A70C7031FE.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Door.uasset'
+[2025.10.04-02.42.16:425][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.093 ms (total: 4.73 sec)
+[2025.10.04-02.42.16:529][189]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.42.16:529][189]LogContentValidation: Enabled validators:
+[2025.10.04-02.42.16:529][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.42.16:529][189]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.42.16:529][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.42.16:529][189]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.42.16:529][189]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.42.16:529][189]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.42.16:529][189]AssetCheck: /Game/BP_character/BP_Door Validating asset
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: ================================================
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Total job queries 293, among them cache hits 76 (25.94%), DDC hits 162 (55.29%), Duplicates 3 (1.02%)
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Tracking 214 distinct input hashes that result in 180 distinct outputs (84.11%)
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: RAM used: 129,25 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Shaders Compiled: 52
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Jobs assigned 52, completed 52 (100%)
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Average time worker was idle: 328.86 s
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.11 s
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Job execution time: average 0.91 s, max 2.23 s
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Job life time (pending + execution): average 0.99 s, max 2.34
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Shader code size: average 8,186 KiB, min 4,121 KiB, max 12,332 KiB
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.38 s
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.25%
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Jobs were issued in 52 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Average processing rate: 2.99 jobs/sec
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Total thread time: 31,625 s
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Total thread preprocess time: 7,432 s
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Percentage time preprocessing: 23.50%
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Effective parallelization: 1.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    8 times, average 1.12 sec, max 1.43 sec, min 1.02 sec)
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 1.02 sec, max 1.03 sec, min 1.01 sec)
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    4 times, average 0.80 sec, max 0.80 sec, min 0.79 sec)
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 0.62 sec, max 0.84 sec, min 0.53 sec)
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 0.49 sec, max 0.50 sec, min 0.47 sec)
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 28.40% of total time (compiled    8 times, average 1.12 sec, max 1.43 sec, min 1.02 sec)
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.66% of total time (compiled    8 times, average 0.62 sec, max 0.84 sec, min 0.53 sec)
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.94% of total time (compiled    4 times, average 1.02 sec, max 1.03 sec, min 1.01 sec)
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 10.11% of total time (compiled    4 times, average 0.80 sec, max 0.80 sec, min 0.79 sec)
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.01% of total time (compiled    8 times, average 0.40 sec, max 0.66 sec, min 0.32 sec)
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: === Material stats ===
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Materials Translated:    172
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Material Total Translate Time: 0.30 s
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Material Translation Only: 0.18 s (59%)
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: Material Cache Hits: 42 (24%)
+[2025.10.04-02.42.20:354][362]LogShaderCompilers: Display: ================================================
+[2025.10.04-02.42.20:875][384]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_character/BP_chest.BP_chest
+[2025.10.04-02.42.20:876][384]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.10.04-02.43.00:185][312]LogStreaming: Display: FlushAsyncLoading(603): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.04-02.43.04:001][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.04-02.43.04:632][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.43.04:727][495]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_chest] ([2] browsable assets)...
+[2025.10.04-02.43.04:732][495]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_chest.BP_chest]
+[2025.10.04-02.43.04:732][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_chest]
+[2025.10.04-02.43.04:732][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_chest" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_chest.uasset" SILENT=true
+[2025.10.04-02.43.04:741][495]LogSavePackage: Moving output files for package: /Game/BP_character/BP_chest
+[2025.10.04-02.43.04:741][495]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_chest90C85B0D4C14065037ABDE9E240BAA04.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_chest.uasset'
+[2025.10.04-02.43.04:754][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.177 ms (total: 4.85 sec)
+[2025.10.04-02.43.04:858][495]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.43.04:858][495]LogContentValidation: Enabled validators:
+[2025.10.04-02.43.04:858][495]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.43.04:858][495]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.43.04:858][495]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.43.04:858][495]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.43.04:858][495]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.43.04:858][495]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.43.04:858][495]AssetCheck: /Game/BP_character/BP_chest Validating asset
+[2025.10.04-02.43.08:120][647]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_character/BP_Trap.BP_Trap
+[2025.10.04-02.43.08:121][647]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.10.04-02.43.19:287][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.10.04-02.43.20:143][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.43.20:223][201]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Trap] ([2] browsable assets)...
+[2025.10.04-02.43.20:229][201]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Trap.BP_Trap]
+[2025.10.04-02.43.20:229][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Trap]
+[2025.10.04-02.43.20:229][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Trap" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Trap.uasset" SILENT=true
+[2025.10.04-02.43.20:236][201]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Trap
+[2025.10.04-02.43.20:236][201]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_TrapF056B3904D755FF31A6F9CB198E63DEC.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Trap.uasset'
+[2025.10.04-02.43.20:251][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.062 ms (total: 4.96 sec)
+[2025.10.04-02.43.20:353][201]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.43.20:353][201]LogContentValidation: Enabled validators:
+[2025.10.04-02.43.20:353][201]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.43.20:353][201]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.43.20:353][201]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.43.20:353][201]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.43.20:353][201]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.43.20:353][201]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.43.20:354][201]AssetCheck: /Game/BP_character/BP_Trap Validating asset
+[2025.10.04-02.43.21:805][273]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-02.43.21:805][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.43.21:879][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.10.04-02.43.49:716][715]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_character/BPI_interactable.BPI_interactable
+[2025.10.04-02.43.49:717][715]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.10.04-02.43.57:250][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.04-02.43.57:747][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.43.57:818][144]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_character/BPI_interactable] ([2] browsable assets)...
+[2025.10.04-02.43.57:818][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BPI_interactable]
+[2025.10.04-02.43.57:818][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BPI_interactable" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BPI_interactable.uasset" SILENT=true
+[2025.10.04-02.43.57:822][144]LogSavePackage: Moving output files for package: /Game/BP_character/BPI_interactable
+[2025.10.04-02.43.57:822][144]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BPI_interactable6C43217044F59AB490B198BA854D1B1F.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BPI_interactable.uasset'
+[2025.10.04-02.43.57:833][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.443 ms (total: 5.05 sec)
+[2025.10.04-02.43.57:934][144]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.43.57:934][144]LogContentValidation: Enabled validators:
+[2025.10.04-02.43.57:934][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.43.57:934][144]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.43.57:934][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.43.57:934][144]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.43.57:934][144]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.43.57:934][144]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.43.57:934][144]AssetCheck: /Game/BP_character/BPI_interactable Validating asset
+[2025.10.04-02.43.59:299][221]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-02.43.59:299][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.43.59:353][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.10.04-02.44.01:353][314]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.04-02.44.01:353][314]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-02.44.01:353][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.44.01:429][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.04-02.44.03:937][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.04-02.44.04:440][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.44.04:539][461]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Box] ([2] browsable assets)...
+[2025.10.04-02.44.04:544][461]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Box.BP_Box]
+[2025.10.04-02.44.04:544][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Box]
+[2025.10.04-02.44.04:544][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Box" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Box.uasset" SILENT=true
+[2025.10.04-02.44.04:549][461]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Box
+[2025.10.04-02.44.04:549][461]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_BoxAE0F46394AB83A9617FDB99C8E785824.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Box.uasset'
+[2025.10.04-02.44.04:563][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.342 ms (total: 5.17 sec)
+[2025.10.04-02.44.04:669][461]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.44.04:670][461]LogContentValidation: Enabled validators:
+[2025.10.04-02.44.04:670][461]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.44.04:670][461]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.44.04:670][461]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.44.04:670][461]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.44.04:670][461]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.44.04:670][461]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.44.04:670][461]AssetCheck: /Game/BP_character/BP_Box Validating asset
+[2025.10.04-02.44.13:317][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.10.04-02.44.13:697][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.44.13:803][971]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Box] ([2] browsable assets)...
+[2025.10.04-02.44.13:808][971]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Box.BP_Box]
+[2025.10.04-02.44.13:808][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Box]
+[2025.10.04-02.44.13:808][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Box" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Box.uasset" SILENT=true
+[2025.10.04-02.44.13:813][971]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Box
+[2025.10.04-02.44.13:813][971]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_BoxBC537739408A7C22389423B0D23CE2EF.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Box.uasset'
+[2025.10.04-02.44.13:826][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.711 ms (total: 5.30 sec)
+[2025.10.04-02.44.13:916][971]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.44.13:916][971]LogContentValidation: Enabled validators:
+[2025.10.04-02.44.13:916][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.44.13:916][971]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.44.13:916][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.44.13:916][971]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.44.13:916][971]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.44.13:916][971]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.44.13:916][971]AssetCheck: /Game/BP_character/BP_Box Validating asset
+[2025.10.04-02.44.23:943][469]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_character/BP_Coin.BP_Coin
+[2025.10.04-02.44.23:943][469]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2025.10.04-02.44.49:616][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.44.49:696][770]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Box] ([2] browsable assets)...
+[2025.10.04-02.44.49:703][770]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Box.BP_Box]
+[2025.10.04-02.44.49:703][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Box]
+[2025.10.04-02.44.49:703][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Box" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Box.uasset" SILENT=true
+[2025.10.04-02.44.49:708][770]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Box
+[2025.10.04-02.44.49:709][770]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_Box01F0314B419181C34E5F259495143B57.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Box.uasset'
+[2025.10.04-02.44.49:721][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.016 ms (total: 5.40 sec)
+[2025.10.04-02.44.49:814][770]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.44.49:814][770]LogContentValidation: Enabled validators:
+[2025.10.04-02.44.49:814][770]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.44.49:814][770]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.44.49:814][770]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.44.49:814][770]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.44.49:814][770]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.44.49:814][770]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.44.49:814][770]AssetCheck: /Game/BP_character/BP_Box Validating asset
+[2025.10.04-02.45.14:338][ 62]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5055.670898
+[2025.10.04-02.45.14:854][ 92]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-02.45.14:854][ 92]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5056.170410, Update Interval: 318.919037
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: ================================================
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Total job queries 298, among them cache hits 78 (26.17%), DDC hits 162 (54.36%), Duplicates 3 (1.01%)
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Tracking 217 distinct input hashes that result in 182 distinct outputs (83.87%)
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: RAM used: 129,83 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Shaders Compiled: 55
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Jobs assigned 55, completed 55 (100%)
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Average time worker was idle: 313.49 s
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.11 s
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Job execution time: average 0.93 s, max 2.23 s
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Job life time (pending + execution): average 1.00 s, max 2.34
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Shader code size: average 8,235 KiB, min 4,121 KiB, max 12,332 KiB
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.09 s
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.25%
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Jobs were issued in 55 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Average processing rate: 2.88 jobs/sec
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Total thread time: 33,843 s
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Total thread preprocess time: 7,508 s
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Percentage time preprocessing: 22.18%
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Effective parallelization: 1.77 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    9 times, average 1.12 sec, max 1.43 sec, min 1.02 sec)
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 1.02 sec, max 1.03 sec, min 1.01 sec)
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    4 times, average 0.80 sec, max 0.80 sec, min 0.79 sec)
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.62 sec, max 0.84 sec, min 0.53 sec)
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 0.49 sec, max 0.50 sec, min 0.47 sec)
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 29.90% of total time (compiled    9 times, average 1.12 sec, max 1.43 sec, min 1.02 sec)
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.54% of total time (compiled    9 times, average 0.62 sec, max 0.84 sec, min 0.53 sec)
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.09% of total time (compiled    4 times, average 1.02 sec, max 1.03 sec, min 1.01 sec)
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.64% of total time (compiled    9 times, average 0.40 sec, max 0.66 sec, min 0.32 sec)
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.44% of total time (compiled    4 times, average 0.80 sec, max 0.80 sec, min 0.79 sec)
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: === Material stats ===
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Materials Translated:    173
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Material Total Translate Time: 0.30 s
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Material Translation Only: 0.18 s (58%)
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: Material Cache Hits: 42 (24%)
+[2025.10.04-02.45.20:369][408]LogShaderCompilers: Display: ================================================
+[2025.10.04-02.45.30:195][931]LogBlueprint: Error: [AssetLog] C:\Users\Vicho\Documents\GitHub\DungeonCrawlerProgra3D\Content\BP_character\BP_Box.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_MyCharacter  to imply a specific type.
+[2025.10.04-02.45.30:196][931]LogBlueprint: Error: [AssetLog] C:\Users\Vicho\Documents\GitHub\DungeonCrawlerProgra3D\Content\BP_character\BP_Box.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2025.10.04-02.45.30:310][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.04-02.46.17:177][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.04-02.46.17:767][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.46.17:889][289]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Box] ([2] browsable assets)...
+[2025.10.04-02.46.17:894][289]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Box.BP_Box]
+[2025.10.04-02.46.17:894][289]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Box]
+[2025.10.04-02.46.17:894][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Box" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Box.uasset" SILENT=true
+[2025.10.04-02.46.17:899][289]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Box
+[2025.10.04-02.46.17:899][289]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_BoxE9F06F404447CD14FA6F28A3A0DEADD1.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Box.uasset'
+[2025.10.04-02.46.17:911][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.744 ms (total: 5.55 sec)
+[2025.10.04-02.46.18:001][289]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.46.18:001][289]LogContentValidation: Enabled validators:
+[2025.10.04-02.46.18:001][289]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.46.18:001][289]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.46.18:001][289]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.46.18:001][289]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.46.18:001][289]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.46.18:001][289]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.46.18:001][289]AssetCheck: /Game/BP_character/BP_Box Validating asset
+[2025.10.04-02.46.21:723][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.04-02.46.22:891][501]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.04-02.46.22:939][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.04-02.46.22:965][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.10.04-02.46.22:991][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.04-02.46.26:193][687]LogSlate: Window 'Content Browser' being destroyed
+[2025.10.04-02.46.26:199][687]LogSlate: Window 'Content Browser' being destroyed
+[2025.10.04-02.46.28:425][809]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_character/BP_Box.BP_Box_C
+[2025.10.04-02.46.28:425][809]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_character/BP_Box.BP_Box_C
+[2025.10.04-02.46.28:428][809]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_character/BP_Box.BP_Box as actor: BP_Box_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Box_C_0
+[2025.10.04-02.46.28:429][809]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_character/BP_Box.BP_Box as actor: BP_Box_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Box_C_0
+[2025.10.04-02.46.28:615][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.10.04-02.46.28:643][817]LogEditorActor: Deleted 0 Actors (0.051 secs)
+[2025.10.04-02.46.28:651][817]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_character/BP_Box.BP_Box_C
+[2025.10.04-02.46.28:651][817]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_character/BP_Box.BP_Box_C
+[2025.10.04-02.46.28:654][817]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_character/BP_Box.BP_Box as actor: BP_Box_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Box_C_UAID_7C4D8F97DF3F039502_1944677371
+[2025.10.04-02.46.28:656][817]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_character/BP_Box.BP_Box as actor: BP_Box_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Box_C_UAID_7C4D8F97DF3F039502_1944677371
+[2025.10.04-02.46.47:722][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.04-02.46.48:118][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.46.48:218][866]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Box] ([2] browsable assets)...
+[2025.10.04-02.46.48:223][866]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Box.BP_Box]
+[2025.10.04-02.46.48:223][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Box]
+[2025.10.04-02.46.48:223][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Box" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Box.uasset" SILENT=true
+[2025.10.04-02.46.48:229][866]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Box
+[2025.10.04-02.46.48:230][866]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_Box2F8555B140C60E783B315F8011FED03C.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Box.uasset'
+[2025.10.04-02.46.48:244][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.852 ms (total: 5.67 sec)
+[2025.10.04-02.46.48:350][866]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.46.48:350][866]LogContentValidation: Enabled validators:
+[2025.10.04-02.46.48:350][866]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.46.48:350][866]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.46.48:350][866]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.46.48:350][866]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.46.48:351][866]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.46.48:351][866]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.46.48:351][866]AssetCheck: /Game/BP_character/BP_Box Validating asset
+[2025.10.04-02.46.51:853][ 63]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.04-02.46.51:859][ 63]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.10.04-02.46.51:859][ 63]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.10.04-02.46.51:862][ 63]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.740 ms (total: 26.709 ms)
+[2025.10.04-02.46.51:862][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.04-02.46.51:862][ 63]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.10.04-02.46.51:868][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005395s)
+[2025.10.04-02.46.51:868][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005435s)
+[2025.10.04-02.46.51:889][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.10.04-02.46.51:894][ 63]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.10.04-02.46.51:896][ 63]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.04-02.46.51:896][ 63]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.04-02.46.51:896][ 63]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.04-02.46.51:896][ 63]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.04-02.46.51:897][ 63]LogWorldPartition: Display: WorldPartition initialize took 1.664 ms (total: 1.44 sec)
+[2025.10.04-02.46.51:897][ 63]LogPlayLevel: PIE: World Init took: (0.003443s)
+[2025.10.04-02.46.51:898][ 63]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.10.04-02.46.51:898][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.04-02.46.51:898][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.04-02.46.51:898][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.04-02.46.51:898][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.04-02.46.51:898][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.04-02.46.51:898][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.04-02.46.51:898][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.04-02.46.51:898][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.04-02.46.51:898][ 63]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.04-02.46.51:898][ 63]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.04-02.46.51:898][ 63]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.04-02.46.51:902][ 63]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.04-02.46.51:922][ 63]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.10.04-02.46.51:922][ 63]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.04-02.46.51:922][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.04-02.46.51:922][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.04-02.46.51:923][ 63]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.10.04-02.46.51:923][ 63]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.10.04-02.46.51:926][ 63]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.10.04-02.46.51:926][ 63]LogInit: FAudioDevice initialized with ID 10.
+[2025.10.04-02.46.51:926][ 63]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.10.04-02.46.51:926][ 63]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2025.10.04-02.46.51:926][ 63]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.10.04-02.46.51:929][ 63]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.04-02.46.51:932][ 63]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.10.03-23.46.51
+[2025.10.04-02.46.51:932][ 63]LogWorld: Bringing up level for play took: 0.002378
+[2025.10.04-02.46.51:935][ 63]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.10.04-02.46.51:941][ 63]PIE: Server logged in
+[2025.10.04-02.46.51:942][ 63]PIE: Play in editor total start time 0,082 seconds.
+[2025.10.04-02.47.00:798][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-02.47.00:798][591]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.10.04-02.47.00:799][591]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-02.47.00:799][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.47.00:799][591]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.10.04-02.47.00:805][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-02.47.00:811][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.47.00:837][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-02.47.00:837][591]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.10.04-02.47.00:837][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.10.04-02.47.00:838][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.10.04-02.47.00:847][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.10.04-02.47.00:936][592]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.10.04-02.47.57:482][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.04-02.47.57:970][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.47.58:062][694]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Box] ([2] browsable assets)...
+[2025.10.04-02.47.58:067][694]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Box.BP_Box]
+[2025.10.04-02.47.58:067][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Box]
+[2025.10.04-02.47.58:067][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Box" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Box.uasset" SILENT=true
+[2025.10.04-02.47.58:074][694]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Box
+[2025.10.04-02.47.58:074][694]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_Box821AC14A4993F10E8A44F88DF69731AB.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Box.uasset'
+[2025.10.04-02.47.58:086][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.006 ms (total: 5.79 sec)
+[2025.10.04-02.47.58:175][694]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.47.58:175][694]LogContentValidation: Enabled validators:
+[2025.10.04-02.47.58:175][694]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.47.58:175][694]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.47.58:175][694]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.47.58:175][694]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.47.58:175][694]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.47.58:175][694]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.47.58:176][694]AssetCheck: /Game/BP_character/BP_Box Validating asset
+[2025.10.04-02.48.43:679][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.04-02.48.44:280][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.48.44:369][254]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Box] ([2] browsable assets)...
+[2025.10.04-02.48.44:375][254]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Box.BP_Box]
+[2025.10.04-02.48.44:375][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Box]
+[2025.10.04-02.48.44:375][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Box" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Box.uasset" SILENT=true
+[2025.10.04-02.48.44:381][254]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Box
+[2025.10.04-02.48.44:381][254]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_Box98860E8C411BE5E221674E9DCB38D016.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Box.uasset'
+[2025.10.04-02.48.44:394][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.989 ms (total: 5.90 sec)
+[2025.10.04-02.48.44:500][254]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.48.44:500][254]LogContentValidation: Enabled validators:
+[2025.10.04-02.48.44:500][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.48.44:500][254]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.48.44:500][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.48.44:500][254]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.48.44:500][254]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.48.44:500][254]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.48.44:501][254]AssetCheck: /Game/BP_character/BP_Box Validating asset
+[2025.10.04-02.48.46:958][398]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.04-02.48.46:964][398]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.10.04-02.48.46:964][398]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.10.04-02.48.46:968][398]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.896 ms (total: 29.605 ms)
+[2025.10.04-02.48.46:968][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.04-02.48.46:968][398]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.10.04-02.48.46:974][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005642s)
+[2025.10.04-02.48.46:974][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005687s)
+[2025.10.04-02.48.46:997][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.10.04-02.48.47:000][398]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.10.04-02.48.47:002][398]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.04-02.48.47:002][398]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.04-02.48.47:002][398]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.04-02.48.47:002][398]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.04-02.48.47:004][398]LogWorldPartition: Display: WorldPartition initialize took 1.826 ms (total: 1.44 sec)
+[2025.10.04-02.48.47:004][398]LogPlayLevel: PIE: World Init took: (0.004127s)
+[2025.10.04-02.48.47:005][398]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.10.04-02.48.47:005][398]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.04-02.48.47:005][398]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.04-02.48.47:005][398]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.04-02.48.47:005][398]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.04-02.48.47:005][398]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.04-02.48.47:005][398]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.04-02.48.47:005][398]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.04-02.48.47:005][398]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.04-02.48.47:005][398]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.04-02.48.47:005][398]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.04-02.48.47:005][398]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.04-02.48.47:008][398]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.04-02.48.47:027][398]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.10.04-02.48.47:027][398]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.04-02.48.47:027][398]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.04-02.48.47:027][398]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.04-02.48.47:027][398]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.10.04-02.48.47:027][398]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.10.04-02.48.47:030][398]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.10.04-02.48.47:030][398]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.10.04-02.48.47:030][398]LogInit: FAudioDevice initialized with ID 11.
+[2025.10.04-02.48.47:030][398]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonMap'.
+[2025.10.04-02.48.47:030][398]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.10.04-02.48.47:034][398]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.04-02.48.47:037][398]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.10.03-23.48.47
+[2025.10.04-02.48.47:038][398]LogWorld: Bringing up level for play took: 0.002657
+[2025.10.04-02.48.47:040][398]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2025.10.04-02.48.47:046][398]PIE: Server logged in
+[2025.10.04-02.48.47:047][398]PIE: Play in editor total start time 0,082 seconds.
+[2025.10.04-02.48.48:001][453]LogBlueprintUserMessages: [BP_Box_C_UAID_7C4D8F97DF3F039502_1944677371] +5 coin
+[2025.10.04-02.48.50:401][597]LogBlueprintUserMessages: [BP_chest_C_UAID_7C4D8F97DF3FB08E02_1910762423] coins++
+[2025.10.04-02.48.52:583][728]LogBlueprintUserMessages: [HealthSystemComponent] -10.0
+[2025.10.04-02.48.54:534][845]LogBlueprintUserMessages: [HealthSystemComponent] -20.0
+[2025.10.04-02.48.56:901][987]LogBlueprintUserMessages: [BP_chest_C_UAID_7C4D8F97DF3FF48E02_1511563392] coins++
+[2025.10.04-02.48.59:917][168]LogBlueprintUserMessages: [BP_Doorkey_C_UAID_7C4D8F97DF3F009502_1975966842] Door Opened
+[2025.10.04-02.49.00:418][198]LogBlueprintUserMessages: [BP_Door_C_UAID_7C4D8F97DF3F009502_1202790839] Door Opened
+[2025.10.04-02.49.01:450][260]LogBlueprintUserMessages: [BP_Coin_C_UAID_7C4D8F97DF3F009502_1694926840] +1 coin
+[2025.10.04-02.49.01:818][282]LogBlueprintUserMessages: [BP_Key_C_UAID_7C4D8F97DF3F009502_1698590841] taken key
+[2025.10.04-02.49.02:389][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-02.49.02:389][314]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.10.04-02.49.02:389][314]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-02.49.02:390][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.49.02:390][314]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.10.04-02.49.02:399][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-02.49.02:404][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.49.02:430][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-02.49.02:430][314]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.10.04-02.49.02:430][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.10.04-02.49.02:432][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.10.04-02.49.02:443][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.10.04-02.49.02:535][315]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2025.10.04-02.49.31:830][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.04-02.49.32:322][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.49.32:413][918]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Box] ([2] browsable assets)...
+[2025.10.04-02.49.32:418][918]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Box.BP_Box]
+[2025.10.04-02.49.32:418][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Box]
+[2025.10.04-02.49.32:418][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Box" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Box.uasset" SILENT=true
+[2025.10.04-02.49.32:424][918]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Box
+[2025.10.04-02.49.32:424][918]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_BoxC3FFEC5F4E8C553703A9D8B8A3BA64AF.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Box.uasset'
+[2025.10.04-02.49.32:439][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.590 ms (total: 6.02 sec)
+[2025.10.04-02.49.32:511][918]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.49.32:511][918]LogContentValidation: Enabled validators:
+[2025.10.04-02.49.32:511][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.49.32:511][918]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.49.32:511][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.49.32:511][918]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.49.32:511][918]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.49.32:511][918]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.49.32:511][918]AssetCheck: /Game/BP_character/BP_Box Validating asset
+[2025.10.04-02.49.37:141][ 67]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.10.04-02.49.54:216][905]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.10.04-02.49.54:225][905]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.10.04-02.51.15:540][351]LogEditorTransaction: Undo Change Bool Pin Value
+[2025.10.04-02.51.15:829][354]LogEditorTransaction: Undo Change Bool Pin Value
+[2025.10.04-02.51.16:048][356]LogEditorTransaction: Undo Break Pin Links
+[2025.10.04-02.51.16:195][357]LogEditorTransaction: Undo Change Bool Pin Value
+[2025.10.04-02.51.16:400][363]LogEditorTransaction: Undo Move Node
+[2025.10.04-02.51.16:615][370]LogEditorTransaction: Undo Create Pin Link
+[2025.10.04-02.51.16:801][375]LogEditorTransaction: Undo Move Node
+[2025.10.04-02.51.16:997][381]LogEditorTransaction: Undo Create Pin Link
+[2025.10.04-02.51.17:208][388]LogEditorTransaction: Undo Add Node
+[2025.10.04-02.51.17:409][394]LogEditorTransaction: Undo Move Node
+[2025.10.04-02.51.17:606][400]LogEditorTransaction: Undo Add Node
+[2025.10.04-02.51.17:819][407]LogEditorTransaction: Undo Move Node
+[2025.10.04-02.51.18:066][416]LogEditorTransaction: Undo Move Node
+[2025.10.04-02.51.18:299][424]LogEditorTransaction: Undo Create Pin Link
+[2025.10.04-02.51.19:025][461]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5420.357422
+[2025.10.04-02.51.19:150][469]LogEditorTransaction: Undo Break Pin Links
+[2025.10.04-02.51.19:373][470]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-02.51.19:373][470]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5420.646484, Update Interval: 307.432465
+[2025.10.04-02.51.19:430][472]LogEditorTransaction: Undo Break Pin Links
+[2025.10.04-02.51.19:647][474]LogEditorTransaction: Undo Delete current selection
+[2025.10.04-02.51.19:842][477]LogEditorTransaction: Undo Move Node
+[2025.10.04-02.51.20:089][486]LogEditorTransaction: Undo Move Node
+[2025.10.04-02.51.20:318][494]LogEditorTransaction: Undo Change Parameter Type
+[2025.10.04-02.51.20:567][503]LogEditorTransaction: Undo Delete current selection
+[2025.10.04-02.51.25:753][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.04-02.51.26:241][820]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-02.51.26:318][820]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_character/BP_Box] ([2] browsable assets)...
+[2025.10.04-02.51.26:323][820]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_character/BP_Box.BP_Box]
+[2025.10.04-02.51.26:323][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_character/BP_Box]
+[2025.10.04-02.51.26:323][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_character/BP_Box" FILE="../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Box.uasset" SILENT=true
+[2025.10.04-02.51.26:329][820]LogSavePackage: Moving output files for package: /Game/BP_character/BP_Box
+[2025.10.04-02.51.26:329][820]LogSavePackage: Moving '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Saved/BP_BoxAE1C76F7439B897356E0B9A45027B8C7.tmp' to '../../../../../../Users/Vicho/Documents/GitHub/DungeonCrawlerProgra3D/Content/BP_character/BP_Box.uasset'
+[2025.10.04-02.51.26:340][820]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.158 ms (total: 6.12 sec)
+[2025.10.04-02.51.26:431][820]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-02.51.26:431][820]LogContentValidation: Enabled validators:
+[2025.10.04-02.51.26:431][820]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-02.51.26:431][820]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-02.51.26:431][820]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-02.51.26:432][820]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-02.51.26:432][820]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-02.51.26:432][820]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-02.51.26:432][820]AssetCheck: /Game/BP_character/BP_Box Validating asset
+[2025.10.04-02.51.33:137][216]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.04-02.51.33:143][216]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.10.04-02.51.33:143][216]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.10.04-02.51.33:146][216]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.655 ms (total: 32.261 ms)
+[2025.10.04-02.51.33:147][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.04-02.51.33:147][216]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.10.04-02.51.33:152][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005344s)
+[2025.10.04-02.51.33:152][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005382s)
+[2025.10.04-02.51.33:175][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.10.04-02.51.33:178][216]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.10.04-02.51.33:179][216]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.04-02.51.33:179][216]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.04-02.51.33:179][216]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.04-02.51.33:179][216]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.04-02.51.33:181][216]LogWorldPartition: Display: WorldPartition initialize took 1.791 ms (total: 1.45 sec)
+[2025.10.04-02.51.33:181][216]LogPlayLevel: PIE: World Init took: (0.003494s)
+[2025.10.04-02.51.33:182][216]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.10.04-02.51.33:182][216]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.04-02.51.33:182][216]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.04-02.51.33:182][216]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.04-02.51.33:182][216]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.04-02.51.33:182][216]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.04-02.51.33:182][216]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.04-02.51.33:182][216]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.04-02.51.33:182][216]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.04-02.51.33:182][216]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.04-02.51.33:182][216]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.04-02.51.33:182][216]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.04-02.51.33:186][216]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.04-02.51.33:204][216]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.10.04-02.51.33:205][216]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.04-02.51.33:205][216]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.04-02.51.33:205][216]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.04-02.51.33:205][216]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.10.04-02.51.33:205][216]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.10.04-02.51.33:208][216]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.10.04-02.51.33:208][216]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.10.04-02.51.33:208][216]LogInit: FAudioDevice initialized with ID 12.
+[2025.10.04-02.51.33:208][216]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonMap'.
+[2025.10.04-02.51.33:208][216]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.10.04-02.51.33:212][216]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.04-02.51.33:214][216]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.10.03-23.51.33
+[2025.10.04-02.51.33:214][216]LogWorld: Bringing up level for play took: 0.002169
+[2025.10.04-02.51.33:218][216]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2025.10.04-02.51.33:223][216]PIE: Server logged in
+[2025.10.04-02.51.33:224][216]PIE: Play in editor total start time 0,081 seconds.
+[2025.10.04-02.51.34:004][261]LogBlueprintUserMessages: [BP_Box_C_UAID_7C4D8F97DF3F039502_1944677371] +5 coin
+[2025.10.04-02.51.36:406][405]LogBlueprintUserMessages: [BP_chest_C_UAID_7C4D8F97DF3FB08E02_1910762423] coins++
+[2025.10.04-02.51.39:140][569]LogBlueprintUserMessages: [HealthSystemComponent] -10.0
+[2025.10.04-02.51.42:707][783]LogBlueprintUserMessages: [BP_chest_C_UAID_7C4D8F97DF3FF48E02_1511563392] coins++
+[2025.10.04-02.51.47:975][ 99]LogBlueprintUserMessages: [BP_Key_C_UAID_7C4D8F97DF3F009502_1698590841] taken key
+[2025.10.04-02.51.48:323][120]LogBlueprintUserMessages: [BP_Coin_C_UAID_7C4D8F97DF3F009502_1694926840] +1 coin
+[2025.10.04-02.51.49:957][218]LogBlueprintUserMessages: [BP_Door_C_UAID_7C4D8F97DF3F009502_1202790839] Door Opened
+[2025.10.04-02.51.50:773][267]LogBlueprintUserMessages: [BP_Doorkey_C_UAID_7C4D8F97DF3F009502_1975966842] Door Opened
+[2025.10.04-02.51.51:647][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-02.51.51:647][317]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.10.04-02.51.51:648][317]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-02.51.51:648][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.51.51:648][317]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.10.04-02.51.51:654][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-02.51.51:661][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-02.51.51:684][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-02.51.51:685][317]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.10.04-02.51.51:685][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.10.04-02.51.51:688][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.10.04-02.51.51:697][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.04-02.51.51:788][318]LogPlayLevel: Display: Destroying online subsystem :Context_44
